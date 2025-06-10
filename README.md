@@ -10,7 +10,7 @@ I love building innovation projects and ability to produce innovative apps for r
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,java,python,c++,firebase,mysql,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,java,python,cpp,firebase,mysql,arduino" />
   </a>
 </p>
 ---
