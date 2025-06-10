@@ -1,10 +1,6 @@
 
 ## Hi there, I'm Alhaan Ahmed 👋
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AlhaanAhmed/AlhaanAhmed/master/banner.gif" alt="banner" />
-</p>
-
 I’m a passionate student and aspiring developer eager to learn and contribute to open source projects.  
 I love building innovation projects and ability to produce innovative apps for real world users as solutions
 
