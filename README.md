@@ -6,7 +6,7 @@
 </p>
 
 I’m a passionate student and aspiring developer eager to learn and contribute to open source projects.  
-I love building things that combine **frontend**, **backend**, and **hardware** technologies.
+I love building innovation projects and ability to produce innovative apps for real world users as solutions
 
 ---
 
@@ -20,15 +20,6 @@ I love building things that combine **frontend**, **backend**, and **hardware** 
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
   <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlhaanAhmed&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlhaanAhmed&layout=compact&theme=nightowl" alt="Top Languages" />
 </p>
 
 ---
