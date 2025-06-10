@@ -1,5 +1,5 @@
-## Hi there 👋
-# Hi there, I'm Alhaan Ahmed 👋
+
+## Hi there, I'm Alhaan Ahmed 👋
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/AlhaanAhmed/AlhaanAhmed/master/banner.gif" alt="banner" />
