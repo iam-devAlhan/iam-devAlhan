@@ -17,7 +17,11 @@ I love building innovation projects and ability to produce innovative apps for r
   <img src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino" />
 </p>
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,react-native,firebase,mysql" />
+  </a>
+</p>
 ---
 
 ## 🔭 Currently Learning & Exploring
