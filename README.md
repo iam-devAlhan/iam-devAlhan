@@ -10,16 +10,16 @@ I love building innovation projects and ability to produce innovative apps for r
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,java,python,cpp,firebase,mysql,arduino" />
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,java,python,cpp,firebase,mysql,arduino&perline=4" />
   </a>
 </p>
 ---
 
 ## 🔭 Currently Learning & Exploring
 
-- Advanced React Native development  
-- Building robust APIs with FastAPI and integrating databases  
-- Embedded systems and IoT projects with Arduino  
+- React Native and building cross platofrm application
+- Building robust APIs with FastAPI and integrating databases like MySQL using SQLAlchemy
+- Small IoT projects with Arduino and simulating using SimulIDE
 
 ---
 
