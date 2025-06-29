@@ -7,12 +7,9 @@ I love building innovation projects and ability to produce innovative apps for r
 ---
 
 ## 🚀 Tech Stack
-
-<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,python,firebase,mysql,arduino&perline=4" />
+    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,python,firebase,mysql,arduino" />
   </a>
-</p>
 
 ---
 
