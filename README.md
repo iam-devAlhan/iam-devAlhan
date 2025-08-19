@@ -18,7 +18,7 @@ I love building innovation projects and ability to produce innovative apps for r
 - React Native and building cross platofrm application
 - Building robust APIs with FastAPI and integrating databases like MySQL using SQLAlchemy
 - Small IoT projects with Arduino and simulating using SimulIDE
-- Contributing Towards AI and Machine Learning, Building cutting edge Chatbots using RAG Pipeline
+- Contributing Towards AI and Machine Learning, Building cutting edge Chatbots using RAG Pipeline via LangChain
 
 ---
 
