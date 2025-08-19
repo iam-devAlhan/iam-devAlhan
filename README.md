@@ -8,7 +8,7 @@ I love building innovation projects and ability to produce innovative apps for r
 
 ## 🚀 Tech Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,fastapi,react,python,firebase,mysql,postgresql,arduino,openai,supabase" />
+    <img src="https://skillicons.dev/icons?i=fastapi,react,python,firebase,postgresql,arduino,supabase" />
   </a>
 
 ---
@@ -18,6 +18,7 @@ I love building innovation projects and ability to produce innovative apps for r
 - React Native and building cross platofrm application
 - Building robust APIs with FastAPI and integrating databases like MySQL using SQLAlchemy
 - Small IoT projects with Arduino and simulating using SimulIDE
+- Contributing Towards AI and Machine Learning, Building cutting edge Chatbots using RAG Pipeline
 
 ---
 
