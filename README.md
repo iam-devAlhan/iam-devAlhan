@@ -1,9 +1,8 @@
 
 ## Hi there, I'm Alhaan Ahmed 👋
 
-I’m a passionate student and aspiring developer eager to learn and contribute to open source projects.  
-I love building innovation projects and ability to produce innovative apps for real world users as solutions
-
+Hey, I am a Python and TypeScript/JavaScipt Developer, building applications, SaaS that manages team productivity and empowers businesses and teams effectively with scalibility
+I am always work with dedication, forward thinking and a vision to build web applications with productivity
 ---
 
 ## 🚀 Tech Stack
@@ -15,10 +14,9 @@ I love building innovation projects and ability to produce innovative apps for r
 
 ## 🔭 Currently Learning & Exploring
 
-- React Native and building cross platofrm application
-- Building robust APIs with FastAPI and integrating databases like MySQL using SQLAlchemy
-- Small IoT projects with Arduino and simulating using SimulIDE
-- Contributing Towards AI and Machine Learning, Building cutting edge Chatbots using RAG Pipeline via LangChain
+- Machine Learning with Numpy, Pandas, SciKit Learn,
+- NLP with SpaCy
+- LangChain, LangGraph, RAG
 
 ---
 
