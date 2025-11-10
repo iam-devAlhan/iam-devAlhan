@@ -15,8 +15,7 @@ I am always work with dedication, forward thinking and a vision to build web app
 
 ## 🔭 Currently Learning & Exploring
 
-- Machine Learning with Numpy, Pandas, SciKit Learn,
-- NLP with SpaCy
+- Machine Learning with Numpy, Pandas, SciKit Learn
 - LangChain, LangGraph, RAG
 
 ---
