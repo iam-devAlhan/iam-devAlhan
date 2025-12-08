@@ -1,8 +1,8 @@
 
 ## Hi there, I'm Alhaan Ahmed 👋
 
-Hey, I am a Python and TypeScript/JavaScipt Developer, building applications, SaaS that manages team productivity and empowers businesses and teams effectively with scalibility.
-I always work with dedication, forward thinking and a vision to build web applications with productivity
+Hey, I am a Python and TypeScript/JavaScript Developer, building applications, SaaS that manages team productivity and empowers businesses and teams effectively with scalibility.
+I always work with dedication, forward thinking and a vision to build web applications with productivity.
 
 ---
 
