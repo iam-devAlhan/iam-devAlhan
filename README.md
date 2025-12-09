@@ -8,7 +8,7 @@ I always work with dedication, forward thinking and a vision to build web applic
 
 ## 🚀 Tech Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,python,typescript,firebase,mongodb,postgresql,anaconda" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,python,typescript,firebase,mongodb,postgresql,numpy,pandas,scikitlearn" />
   </a>
 
 ---
