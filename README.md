@@ -1,34 +1,30 @@
 
-## Hi there, I'm Alhaan Ahmed 👋
+## Hey Alhaan here 👋
 
-Hey, I am a Python and TypeScript/JavaScript Developer, building applications, SaaS that manages team productivity and empowers businesses and teams effectively with scalibility.
-I always work with dedication, forward thinking and a vision to build web applications with productivity.
+I don't build toy projects, I have the power of extraction of new ideas from my mind, I am lean towards Backend Infrastructure and AI Systems, LLM Orchestration Engineer, Researcher,Python and Javascript Nerdy and foremost I am building SumitUp.
 
 ---
 
-## 🚀 Tech Stack
+## Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,python,typescript,firebase,mongodb,postgresql,scikitlearn" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,scikitlearn" />
   </a>
 
 ---
 
 ## 🔭 Currently Learning & Exploring
 
-- Machine Learning with Numpy, Pandas, SciKit Learn
-- LangChain, LangGraph, RAG
+- Data Analytics and Machine Learning
+- Agentic AI
 
 ---
 
 ## 📫 How to reach me
 
 - GitHub: [github.com/iam-devAlhan](https://github.com/iam-devAlhan)  
-- Email: alhaanahmed68@outlook.com
+- Email: alhaanahmed68@outlook.com or alhaanahmed123@gmail.com
+- Linkedin: [Check out](https://www.linkedin.com/in/alhaan-ahmed-khan-199525296/)
 
 ---
 
-⭐️ If you like my work, don’t forget to **star** some of my repos!
-
-<!--
-You can add more sections like Projects, Certifications, blog links, etc. as you grow!
--->
+⭐️ If you like my work, don’t forget to **contribute or like** some of my contributions!
