@@ -1,7 +1,7 @@
 
 ## Hey Alhaan here 👋
 
-I don't build toy projects, I have the power of extraction of new ideas from my mind, I am lean towards Backend Infrastructure and AI Systems, LLM Orchestration Engineer, Researcher,Python and Javascript Nerdy and foremost I am building SumitUp.
+I don't build toy projects, I have the power of extraction of new ideas from my mind that solves X% problems and increases Y% satisfaction, I am lean towards Backend Infrastructure and AI Systems, LLM Orchestration Engineer, Researcher,Python and Javascript Nerdy and foremost I am building SumitUp.
 
 ---
 
