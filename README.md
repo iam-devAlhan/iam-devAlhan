@@ -5,7 +5,7 @@ I solve X% problems, increase Y% results and reduce Z% risks. Building @SumitUp-
 
 ## Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,scikitlearn,pandas" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,scikitlearn,anaconda,tensorflow" />
   </a>
 
 ---
