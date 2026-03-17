@@ -1,7 +1,7 @@
 
 ## Hey Alhaan here 👋
 
-I solve X% problems, increase Y% results and reduce Z% risks. Building @SumitUp-AI
+Building @SumitUp-AI, Plumbing Things, Exploring New Tech and Creating Ideas. Exploring Automation in Business and AI.
 
 ## Frameworks
   <a href="https://skillicons.dev">
@@ -12,6 +12,6 @@ I solve X% problems, increase Y% results and reduce Z% risks. Building @SumitUp-
 
 ## 🔭 Currently Learning & Exploring
 
-- Data Analytics and Machine Learning
-- Agentic AI
+- Machine Learning
+- AI Agents
 
