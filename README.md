@@ -5,7 +5,7 @@
 
 ## Frameworks
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,sentry,linuxmint,sqlite,docker,nginx,scikitlearn,anaconda" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,sentry,mint,sqlite,docker,nginx,scikitlearn,anaconda" />
   </a>
 
 ---
