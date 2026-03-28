@@ -5,7 +5,7 @@
 
 ## Tools I used
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,sentry,mint,sqlite,docker,nginx,scikitlearn,anaconda" />
+    <img src="https://skillicons.dev/icons?i=django,fastapi,react,firebase,mongodb,postgresql,sqlite,docker,scikitlearn,spacy" />
   </a>
 
 ---
