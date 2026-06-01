@@ -1,19 +1,21 @@
 
 ## Hey Alhaan here 👋
 
-> Building **@SumitUp-AI**, Plumbing Things, Exploring New Tech and Creating Ideas. Exploring Automation in Business and AI.
+> Building **@SumitUp-AI**
 
-My skills are around NLP, Machine Learning, AI and Web Development.
+My skills are in Python Development and AI.
 
 ## Tools I used
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,fastapi,django,firebase,mongodb,postgresql,sqlite,nginx,docker,scikitlearn" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,python,fastapi,django,mongodb,postgresql,docker" />
   </a>
 
 ---
 
 ## 🔭 Currently Learning & Exploring
 
+- Data Engineering
 - Machine Learning
-- AI Agents
+- Deep Learning
+- MLOps
 
