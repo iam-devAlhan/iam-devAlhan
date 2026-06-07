@@ -1,9 +1,9 @@
 
 ## Hey Alhaan here 👋
 
-> Building **@SumitUp-AI**
+> Co Founder **@SumitUp-AI**
 
-My skills are in Python Development and AI.
+Python and AI Engineer
 
 ## Tools I used
   <a href="https://skillicons.dev">
