@@ -7,7 +7,7 @@ Python and AI Engineer
 
 ## Tools I used
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,python,fastapi,django,mongodb,postgresql,docker,scikitlearn,apachespark,pytorch,keras" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,python,fastapi,django,mongodb,postgresql,docker,scikitlearn,azure,pytorch,keras" />
   </a>
 
 ---
