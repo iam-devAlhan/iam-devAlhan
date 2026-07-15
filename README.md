@@ -3,19 +3,19 @@
 
 > Co Founder **@SumitUp-AI**
 
-Python and AI Engineer
+Software Engineer and AI/ML and Data Enthusiast
 
-## Tools I used
+## My Tech Stack
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,javascript,python,fastapi,django,mongodb,postgresql,docker,scikitlearn,azure,pytorch" />
+    <img src="https://skillicons.dev/icons?i=react,javascript,python,fastapi,django,mongodb,postgresql,docker,scikitlearn,azure,pytorch,googlecloud" />
   </a>
 
 ---
 
 ## 🔭 Currently Learning & Exploring
 
-- Data Engineering
-- Machine Learning
-- Deep Learning
+- Data Engineering (Now)
+- Machine Learning (Now)
+- Deep Learning (Now)
 - MLOps
 
