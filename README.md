@@ -1,8 +1,8 @@
 
 # Name: Alhaan Ahmed
-> Profession: Backend Engineer with Django Expertise yet seeking new tech
-> Mindset: Astronaut
-> Team Work Ability and Proven Lead Experience through College/University
+- > Profession: Backend Engineer with Django Expertise yet seeking new tech
+- > Mindset: Astronaut
+- > Team Work Ability and Proven Lead Experience through College/University
 
 I am not obsessed with anything, I am a problem solver, I look closely to problems, try to deduce it, bring a solution that transform lives or becomes core component.
 
