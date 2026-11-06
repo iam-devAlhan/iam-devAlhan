@@ -4,7 +4,7 @@
 I am a professional Software Engineer with specialization in Backend and AI Engineering. I have been building AI Powered Solutions, Data Driven Insights and Infrastructure, REST APIs and worked with Databases. I have also 6 months of hands-on professional experience in Python Development.
 
 Here's what I built:
-- **Sumitup AI Meeting Notetaker**: An AI Powered Meeting Notetaker / Assistant that creates notes within your meetings using Zoom, Teams and Google Meet. Works Self Hosted where Privacy for Organizations matters most. REST APIs built using FastAPI. React.js, TailwindCSS for User Interface and MongoDB Atlas for Data Persistence and Vector Storage for Retreival Augmented Generation. Containerized with Docker Compose for deployment. Attendee SDK for Bot Joining in Zoom, MS Teams or Google Meet Calls.
+- **Sumitup AI Meeting Notetaker**: An AI Powered Meeting Notetaker / Assistant that creates notes within your meetings using Zoom, Teams and Google Meet. REST APIs built using FastAPI. React.js, TailwindCSS for User Interface and MongoDB Atlas for Data Persistence and Vector Storage for Retreival Augmented Generation. Deployed as Beta Version and currently in development, [Click for Demo](app.sumitupai.me/).
 - **Credit Card Fraud Detection**: Trained a Machine Learning Model on PCA Applied Kaggle Dataset using XGBoost, Scikitlearn with 83% above True Negative on Fraud Labels, Base 84% Accuracy.
 - **Job Market Analysis**: Done Analysis using Google Sheets / Excel and built ETL Data Pipeline using Python with Google BigQuery as a Data Warehouse for Data Storage.
 - **AdenyChunker**: A File Compression Tool for compressing text such as .txt, .csv, ZIP Compression using JavaFX as Desktop Application built using Java.
