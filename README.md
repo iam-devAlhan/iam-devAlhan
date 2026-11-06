@@ -24,10 +24,10 @@ Here's what I built:
     <img src="https://skillicons.dev/icons?i=firebase,fastapi,django" />
 </a>
 
-## Cloud / Monitoring:
+## VMs / Deployment:
 <br>
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,bash,linux,nginx,sentry" />
+    <img src="https://skillicons.dev/icons?i=docker,bash,linux,nginx,cloudflare,sentry" />
 </a>
 
 ## AI / Machine Learning:
